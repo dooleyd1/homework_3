@@ -1,3 +1,7 @@
+NOTE: This is an exact copy of my submission from last night, I had an issue with heroku only. 
+I realized a new repo should have been created for this project. Please contact me with questions. 
+Deb Allen
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
